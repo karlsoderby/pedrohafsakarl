@@ -1,0 +1,33 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .flex-container>button {
+    background-color: #f1f1f1;
+  width: 300px;
+  height: 220px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10%;
+  color: transparent;
+  }
+
+  #coffeeSymbol {
+      background: url("img/coffee.png");
+      background-size: cover;
+  }
+
+  #curtainSymbol {
+    background: url("img/newspaper.png");
+    background-size: cover;
+}
+
+#soundSymbol {
+    background: url("img/dator.png");
+    background-size: cover;
+}
